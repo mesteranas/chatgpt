@@ -1,0 +1,145 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2023-07-19 16:12+0300\n"
+"PO-Revision-Date: 2023-07-19 16:41+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 3.3.2\n"
+
+#: D:\programming\projects\python\chatgpt\app.py:5
+msgid ""
+"This program is specially designed for users who are in countries banned "
+"from openai and to facilitate communication with chatgpt"
+msgstr ""
+"تم تصميم هذا البرنامج خصيصًا للمستخدمين الموجودين في البلدان المحظورة من "
+"openai ولتسهيل التواصل مع chatgpt"
+
+#: D:\programming\projects\python\chatgpt\main.py:21
+msgid "version : "
+msgstr "الإصدار:"
+
+#: D:\programming\projects\python\chatgpt\main.py:22
+#: D:\programming\projects\python\chatgpt\main.py:24
+msgid "message"
+msgstr "الرسالة"
+
+#: D:\programming\projects\python\chatgpt\main.py:25
+msgid "send message"
+msgstr "إرسال"
+
+#: D:\programming\projects\python\chatgpt\main.py:29
+msgid "messages"
+msgstr "قائمة الرسائل"
+
+#: D:\programming\projects\python\chatgpt\main.py:31
+msgid "chatgpt respons"
+msgstr "ردود chatgpt"
+
+#: D:\programming\projects\python\chatgpt\main.py:33
+msgid "copy respons"
+msgstr "نسخ الرد"
+
+#: D:\programming\projects\python\chatgpt\main.py:36
+msgid "listen"
+msgstr "الإستماع إلى الرد"
+
+#: D:\programming\projects\python\chatgpt\main.py:39
+#: D:\programming\projects\python\chatgpt\settings.py:16
+msgid "settings"
+msgstr "الإعدادات"
+
+#: D:\programming\projects\python\chatgpt\main.py:55
+msgid "help"
+msgstr "مساعدة"
+
+#: D:\programming\projects\python\chatgpt\main.py:56
+msgid "contact us"
+msgstr "تواصل معنا"
+
+#: D:\programming\projects\python\chatgpt\main.py:60
+msgid "telegram channel"
+msgstr "قناتنا على telegram"
+
+#: D:\programming\projects\python\chatgpt\main.py:63
+msgid "donate"
+msgstr "تبرع"
+
+#: D:\programming\projects\python\chatgpt\main.py:66
+#: D:\programming\projects\python\chatgpt\main.py:68
+msgid "about"
+msgstr "حول"
+
+#: D:\programming\projects\python\chatgpt\main.py:68
+msgid "{} version: {} description: {} developer: {}"
+msgstr "{} الإصدار: {} الوصف: {}  المطور : {}"
+
+#: D:\programming\projects\python\chatgpt\main.py:83
+msgid ""
+"The program is unable to get data from google, the internet may be weak. If "
+"the problem persists, you should inform the developer"
+msgstr ""
+"البرنامج غير قادر على الحصول على البيانات من جوجل ، قد يكون الإنترنت ضعيفًا. "
+"إذا استمرت المشكلة ، يجب عليك إبلاغ المطور"
+
+#: D:\programming\projects\python\chatgpt\main.py:83
+#: D:\programming\projects\python\chatgpt\main.py:99
+msgid "error"
+msgstr "خطأ"
+
+#: D:\programming\projects\python\chatgpt\main.py:99
+msgid ""
+"The program is unable to send the message, the internet may be weak. If the "
+"problem persists, you should inform the developer"
+msgstr ""
+"البرنامج غير قادر على إرسال الرسالة ، قد يكون الإنترنت ضعيفًا. إذا استمرت "
+"المشكلة ، يجب عليك إبلاغ المطور"
+
+#: D:\programming\projects\python\chatgpt\settings.py:23
+msgid "language"
+msgstr "اللغة"
+
+#: D:\programming\projects\python\chatgpt\settings.py:25
+msgid "app language"
+msgstr "لغة التطبيق"
+
+#: D:\programming\projects\python\chatgpt\settings.py:38
+msgid "listen to respons language"
+msgstr "لغة سماع الرد"
+
+#: D:\programming\projects\python\chatgpt\settings.py:39
+msgid "OK"
+msgstr "موافق"
+
+#: D:\programming\projects\python\chatgpt\settings.py:41
+msgid "cancel"
+msgstr "إلغاء"
+
+#: D:\programming\projects\python\chatgpt\settings.py:54
+msgid "settings updated"
+msgstr "تم تحديث الإعدادات"
+
+#: D:\programming\projects\python\chatgpt\settings.py:55
+msgid ""
+"you must restart the program to apply changes \n"
+" do you want to restart now?"
+msgstr ""
+"يجب إعادة تشغيل البرنامج لتطبيق التغييرات\n"
+" هل تريد إعادة التشغيل الآن؟"
+
+#: D:\programming\projects\python\chatgpt\settings.py:57
+msgid "restart now"
+msgstr "إعادة التشغيل الآن"
+
+#: D:\programming\projects\python\chatgpt\settings.py:59
+msgid "restart later"
+msgstr "إعادة التشغيل لاحقا"

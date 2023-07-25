@@ -1,0 +1,150 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2023-07-23 20:24+0300\n"
+"PO-Revision-Date: 2023-07-24 12:47+0300\n"
+"Last-Translator: Slann Tonic <reydelasmaqinas@outlook.com>\n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 3.3.2\n"
+
+#: D:\programming\projects\python\chatgpt\app.py:5
+msgid ""
+"This program is specially designed for users who are in countries banned "
+"from openai and to facilitate communication with chatgpt"
+msgstr ""
+"Este programa está diseñado especialmente para usuarios que están en países "
+"prohibidos para openai y para facilitar la comunicación con chatGpt"
+
+#: D:\programming\projects\python\chatgpt\main.py:22
+msgid "version : "
+msgstr "versión : "
+
+#: D:\programming\projects\python\chatgpt\main.py:23
+#: D:\programming\projects\python\chatgpt\main.py:25
+msgid "message"
+msgstr "mensaje"
+
+#: D:\programming\projects\python\chatgpt\main.py:26
+msgid "send message"
+msgstr "enviar mensaje"
+
+#: D:\programming\projects\python\chatgpt\main.py:30
+msgid "messages"
+msgstr "mensajes"
+
+#: D:\programming\projects\python\chatgpt\main.py:32
+msgid "chatgpt respons"
+msgstr "respuesta de ChatGpt"
+
+#: D:\programming\projects\python\chatgpt\main.py:34
+msgid "copy respons"
+msgstr "copiar respuesta"
+
+#: D:\programming\projects\python\chatgpt\main.py:37
+msgid "listen"
+msgstr "escuchar"
+
+#: D:\programming\projects\python\chatgpt\main.py:40
+#: D:\programming\projects\python\chatgpt\settings.py:15
+msgid "settings"
+msgstr "ajustes"
+
+#: D:\programming\projects\python\chatgpt\main.py:56
+msgid "help"
+msgstr "ayuda"
+
+#: D:\programming\projects\python\chatgpt\main.py:57
+msgid "contact us"
+msgstr "contáctanos"
+
+#: D:\programming\projects\python\chatgpt\main.py:61
+msgid "telegram channel"
+msgstr "canal de Telegram"
+
+#: D:\programming\projects\python\chatgpt\main.py:64
+msgid "donate"
+msgstr "donar"
+
+#: D:\programming\projects\python\chatgpt\main.py:67
+#: D:\programming\projects\python\chatgpt\main.py:69
+msgid "about"
+msgstr "acerca de"
+
+#: D:\programming\projects\python\chatgpt\main.py:69
+msgid "{} version: {} description: {} developer: {}"
+msgstr "{} versión: {} descripción: {} desarrollador: {}"
+
+#: D:\programming\projects\python\chatgpt\main.py:84
+msgid ""
+"The program is unable to get data from google, the internet may be weak. If "
+"the problem persists, you should inform the developer"
+msgstr ""
+"El programa es incapaz de obtener datos desde google, el internet podría "
+"estar dévil. Si el problema persiste, deberías informar al desarrollador"
+
+#: D:\programming\projects\python\chatgpt\main.py:84
+#: D:\programming\projects\python\chatgpt\main.py:105
+#: D:\programming\projects\python\chatgpt\main.py:117
+msgid "error"
+msgstr "error"
+
+#: D:\programming\projects\python\chatgpt\main.py:105
+msgid ""
+"The program is unable to send the message, the internet may be weak. If the "
+"problem persists, you should inform the developer"
+msgstr ""
+"El programa es incapaz de enviar el mensaje, el internet podría estar "
+"dévil. Si el problema persiste, deberías informar al desarrollador"
+
+#: D:\programming\projects\python\chatgpt\main.py:117
+msgid "please select message "
+msgstr "por favor selecciona el mensaje "
+
+#: D:\programming\projects\python\chatgpt\settings.py:22
+msgid "language"
+msgstr "idioma"
+
+#: D:\programming\projects\python\chatgpt\settings.py:24
+msgid "app language"
+msgstr "idioma de la aplicación"
+
+#: D:\programming\projects\python\chatgpt\settings.py:37
+msgid "listen to respons language"
+msgstr "idioma para escuchar las respuestas"
+
+#: D:\programming\projects\python\chatgpt\settings.py:38
+msgid "OK"
+msgstr "aceptar"
+
+#: D:\programming\projects\python\chatgpt\settings.py:40
+msgid "cancel"
+msgstr "cancelar"
+
+#: D:\programming\projects\python\chatgpt\settings.py:53
+msgid "settings updated"
+msgstr "ajustes actualizados"
+
+#: D:\programming\projects\python\chatgpt\settings.py:54
+msgid ""
+"you must restart the program to apply changes \n"
+" do you want to restart now?"
+msgstr ""
+"debes reiniciar el programa para aplicar los cambios. ¿Quieres reiniciar "
+"ahora?"
+
+#: D:\programming\projects\python\chatgpt\settings.py:56
+msgid "restart now"
+msgstr "reiniciar ahora"
+
+#: D:\programming\projects\python\chatgpt\settings.py:58
+msgid "restart later"
+msgstr "reiniciar más tarde"

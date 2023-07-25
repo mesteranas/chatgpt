@@ -1,0 +1,153 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2023-07-23 20:24+0300\n"
+"PO-Revision-Date: 2023-07-25 12:36+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n==0 || (n!=1 && n%100>=1 && "
+"n%100<=19) ? 1 : 2);\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 3.3.2\n"
+
+#: D:\programming\projects\python\chatgpt\app.py:5
+msgid ""
+"This program is specially designed for users who are in countries banned "
+"from openai and to facilitate communication with chatgpt"
+msgstr ""
+"Acest program este special conceput pentru utilizatorii care se află în "
+"țări interzise de openai și pentru a facilita comunicarea cu ChatGPT"
+
+#: D:\programming\projects\python\chatgpt\main.py:22
+msgid "version : "
+msgstr "Versiune: "
+
+#: D:\programming\projects\python\chatgpt\main.py:23
+#: D:\programming\projects\python\chatgpt\main.py:25
+msgid "message"
+msgstr "Mesaj: "
+
+#: D:\programming\projects\python\chatgpt\main.py:26
+msgid "send message"
+msgstr "Trimite mesajul"
+
+#: D:\programming\projects\python\chatgpt\main.py:30
+msgid "messages"
+msgstr "Mesaje"
+
+#: D:\programming\projects\python\chatgpt\main.py:32
+msgid "chatgpt respons"
+msgstr "Răspunsul ChatGPT"
+
+#: D:\programming\projects\python\chatgpt\main.py:34
+msgid "copy respons"
+msgstr "Copiază răspunsul"
+
+#: D:\programming\projects\python\chatgpt\main.py:37
+msgid "listen"
+msgstr "Ascultă"
+
+#: D:\programming\projects\python\chatgpt\main.py:40
+#: D:\programming\projects\python\chatgpt\settings.py:15
+msgid "settings"
+msgstr "Setări"
+
+#: D:\programming\projects\python\chatgpt\main.py:56
+msgid "help"
+msgstr "Ajutor"
+
+#: D:\programming\projects\python\chatgpt\main.py:57
+msgid "contact us"
+msgstr "Contactează-ne"
+
+#: D:\programming\projects\python\chatgpt\main.py:61
+msgid "telegram channel"
+msgstr "Canal Telegram"
+
+#: D:\programming\projects\python\chatgpt\main.py:64
+msgid "donate"
+msgstr "Donează"
+
+#: D:\programming\projects\python\chatgpt\main.py:67
+#: D:\programming\projects\python\chatgpt\main.py:69
+msgid "about"
+msgstr "Despre"
+
+#: D:\programming\projects\python\chatgpt\main.py:69
+msgid "{} version: {} description: {} developer: {}"
+msgstr "{} Versiune: {} Descriere: {} Dezvoltator: {}"
+
+#: D:\programming\projects\python\chatgpt\main.py:84
+msgid ""
+"The program is unable to get data from google, the internet may be weak. If "
+"the problem persists, you should inform the developer"
+msgstr ""
+"Programul nu reușește să obțină date de la Google, este posibil ca "
+"internetul să fie slab. Dacă problema persistă, ar trebui să informezi "
+"dezvoltatorul"
+
+#: D:\programming\projects\python\chatgpt\main.py:84
+#: D:\programming\projects\python\chatgpt\main.py:105
+#: D:\programming\projects\python\chatgpt\main.py:117
+msgid "error"
+msgstr "Eroare"
+
+#: D:\programming\projects\python\chatgpt\main.py:105
+msgid ""
+"The program is unable to send the message, the internet may be weak. If the "
+"problem persists, you should inform the developer"
+msgstr ""
+"Programul nu reușește să trimită mesajul, este posibil ca internetul să fie "
+"slab. Dacă problema persistă, ar trebui să informezi dezvoltatorul"
+
+#: D:\programming\projects\python\chatgpt\main.py:117
+msgid "please select message "
+msgstr "Te rog să selectezi un mesaj"
+
+#: D:\programming\projects\python\chatgpt\settings.py:22
+msgid "language"
+msgstr "Limbă"
+
+#: D:\programming\projects\python\chatgpt\settings.py:24
+msgid "app language"
+msgstr "Limba aplicației"
+
+#: D:\programming\projects\python\chatgpt\settings.py:37
+msgid "listen to respons language"
+msgstr "Limba răspunsului care urmează a fi ascultat"
+
+#: D:\programming\projects\python\chatgpt\settings.py:38
+msgid "OK"
+msgstr "OK"
+
+#: D:\programming\projects\python\chatgpt\settings.py:40
+msgid "cancel"
+msgstr "Anulează"
+
+#: D:\programming\projects\python\chatgpt\settings.py:53
+msgid "settings updated"
+msgstr "Setări actualizate"
+
+#: D:\programming\projects\python\chatgpt\settings.py:54
+msgid ""
+"you must restart the program to apply changes \n"
+" do you want to restart now?"
+msgstr ""
+"trebuie să repornești programul pentru a aplica modificările \n"
+" dorești să repornești acum?"
+
+#: D:\programming\projects\python\chatgpt\settings.py:56
+msgid "restart now"
+msgstr "Repornește acum"
+
+#: D:\programming\projects\python\chatgpt\settings.py:58
+msgid "restart later"
+msgstr "Repornește mai târziu"
